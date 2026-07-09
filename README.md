@@ -1,5 +1,5 @@
 # University Malaya Data Structure Course
-📘 WIA1002 DS Java Tutorial\
+📘 WIA1002 DS Java Lab\
 📖 Introduction
 
 This repository contains Java lab exercises for WIA1002 – Data Structure at Universiti Malaya. The labs focus on building core programming skills through structured problem-solving tasks using Java.
